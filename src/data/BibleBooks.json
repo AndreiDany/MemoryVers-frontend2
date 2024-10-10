@@ -1,0 +1,304 @@
+[
+    {
+        "numeCarte": "Geneza",
+        "capitole": [
+            {
+                "numarCapitol": 1,
+                "numarVersete": 31
+            },
+            {
+                "numarCapitol": 2,
+                "numarVersete": 25
+            },
+            {
+                "numarCapitol": 3,
+                "numarVersete": 24
+            },
+            {
+                "numarCapitol": 4,
+                "numarVersete": 26
+            },
+            {
+                "numarCapitol": 5,
+                "numarVersete": 32
+            },
+            {
+                "numarCapitol": 6,
+                "numarVersete": 22
+            },
+            {
+                "numarCapitol": 7,
+                "numarVersete": 24
+            },
+            {
+                "numarCapitol": 8,
+                "numarVersete": 22
+            },
+            {
+                "numarCapitol": 9,
+                "numarVersete": 29
+            },
+            {
+                "numarCapitol": 10,
+                "numarVersete": 32
+            },
+            {
+                "numarCapitol": 11,
+                "numarVersete": 32
+            },
+            {
+                "numarCapitol": 12,
+                "numarVersete": 20
+            },
+            {
+                "numarCapitol": 13,
+                "numarVersete": 18
+            },
+            {
+                "numarCapitol": 14,
+                "numarVersete": 24
+            },
+            {
+                "numarCapitol": 15,
+                "numarVersete": 21
+            },
+            {
+                "numarCapitol": 16,
+                "numarVersete": 16
+            },
+            {
+                "numarCapitol": 17,
+                "numarVersete": 27
+            },
+            {
+                "numarCapitol": 18,
+                "numarVersete": 33
+            },
+            {
+                "numarCapitol": 19,
+                "numarVersete": 38
+            },
+            {
+                "numarCapitol": 20,
+                "numarVersete": 18
+            },
+            {
+                "numarCapitol": 21,
+                "numarVersete": 34
+            },
+            {
+                "numarCapitol": 22,
+                "numarVersete": 24
+            },
+            {
+                "numarCapitol": 23,
+                "numarVersete": 20
+            },
+            {
+                "numarCapitol": 24,
+                "numarVersete": 67
+            },
+            {
+                "numarCapitol": 25,
+                "numarVersete": 34
+            },
+            {
+                "numarCapitol": 26,
+                "numarVersete": 35
+            },
+            {
+                "numarCapitol": 27,
+                "numarVersete": 46
+            },
+            {
+                "numarCapitol": 28,
+                "numarVersete": 22
+            },
+            {
+                "numarCapitol": 29,
+                "numarVersete": 35
+            },
+            {
+                "numarCapitol": 30,
+                "numarVersete": 43
+            },
+            {
+                "numarCapitol": 31,
+                "numarVersete": 55
+            },
+            {
+                "numarCapitol": 32,
+                "numarVersete": 32
+            },
+            {
+                "numarCapitol": 33,
+                "numarVersete": 20
+            },
+            {
+                "numarCapitol": 34,
+                "numarVersete": 31
+            },
+            {
+                "numarCapitol": 35,
+                "numarVersete": 29
+            },
+            {
+                "numarCapitol": 36,
+                "numarVersete": 43
+            },
+            {
+                "numarCapitol": 37,
+                "numarVersete": 36
+            },
+            {
+                "numarCapitol": 38,
+                "numarVersete": 30
+            },
+            {
+                "numarCapitol": 39,
+                "numarVersete": 23
+            },
+            {
+                "numarCapitol": 40,
+                "numarVersete": 23
+            },
+            {
+                "numarCapitol": 41,
+                "numarVersete": 57
+            },
+            {
+                "numarCapitol": 42,
+                "numarVersete": 38
+            },
+            {
+                "numarCapitol": 43,
+                "numarVersete": 34
+            },
+            {
+                "numarCapitol": 44,
+                "numarVersete": 34
+            },
+            {
+                "numarCapitol": 45,
+                "numarVersete": 28
+            },
+            {
+                "numarCapitol": 46,
+                "numarVersete": 34
+            },
+            {
+                "numarCapitol": 47,
+                "numarVersete": 31
+            },
+            {
+                "numarCapitol": 48,
+                "numarVersete": 22
+            },
+            {
+                "numarCapitol": 49,
+                "numarVersete": 33
+            },
+            {
+                "numarCapitol": 50,
+                "numarVersete": 26
+            }
+        ]
+    },
+    {
+        "numeCarte": "Exod",
+        "capitole": [
+            {
+                "numarCapitol": 1,
+                "numarVersete": 22
+            },
+            {
+                "numarCapitol": 2,
+                "numarVersete": 25
+            },
+            {
+                "numarCapitol": 3,
+                "numarVersete": 22
+            }
+        ]
+    },
+    {"numeCarte": "Leviticul"},
+    {"numeCarte": "Numeri"},
+    {"numeCarte": "Deuteronomul"},
+    {"numeCarte": "Iosua"},
+    {"numeCarte": "Judecatorii"},
+    {"numeCarte": "Rut"},
+    {"numeCarte": "1 Samuel"},
+    {"numeCarte": "2 Samuel"},
+    {"numeCarte": "1 Imparati"},
+    {"numeCarte": "2 Imparati"},
+    {"numeCarte": "1 Cronici"},
+    {"numeCarte": "2 Cronici"},
+    {"numeCarte": "Ezra"},
+    {"numeCarte": "Neemia"},
+    {"numeCarte": "Estera"},
+    {"numeCarte": "Iov"},
+    {"numeCarte": "Psalmii"},
+    {"numeCarte": "Proverbele"},
+    {"numeCarte": "Eclesiastul"},
+    {"numeCarte": "Cant. cantarilor"},
+    {"numeCarte": "Isaia"},
+    {"numeCarte": "Ieremia"},
+    {"numeCarte": "Plangeri"},
+    {"numeCarte": "Ezechiel"},
+    {"numeCarte": "Daniel"},
+    {"numeCarte": "Osea"},
+    {"numeCarte": "Ioel"},
+    {"numeCarte": "Amos"},
+    {"numeCarte": "Obadia"},
+    {"numeCarte": "Iona"},
+    {"numeCarte": "Mica"},
+    {"numeCarte": "Naum"},
+    {"numeCarte": "Habacuc"},
+    {"numeCarte": "Tefania"},
+    {"numeCarte": "Hagai"},
+    {"numeCarte": "Zaharia"},
+    {"numeCarte": "Maleahi"},
+    {"numeCarte": "Matei"},
+    {"numeCarte": "Marcu"},
+    {"numeCarte": "Luca"},
+    {"numeCarte": "Ioan"},
+    {"numeCarte": "Fapte"},
+    {"numeCarte": "Romani"},
+    {"numeCarte": "1 Corinteni"},
+    {"numeCarte": "2 Corinteni"},
+    {"numeCarte": "Galateni"},
+    {"numeCarte": "Efeseni"},
+    {"numeCarte": "Filipeni"},
+    {"numeCarte": "Coloseni"},
+    {"numeCarte": "1 Tesaloniceni"},
+    {"numeCarte": "2 Tesaloniceni"},
+    {"numeCarte": "1 Timotei"},
+    {"numeCarte": "2 Timotei"},
+    {"numeCarte": "Tit"},
+    {"numeCarte": "Filimon"},
+    {"numeCarte": "Evrei"},
+    {"numeCarte": "Iacov"},
+    {"numeCarte": "1 Petru"},
+    {"numeCarte": "2 Petru"},
+    {"numeCarte": "1 Ioan"},
+    {"numeCarte": "2 Ioan"},
+    {"numeCarte": "3 Ioan"},
+    {"numeCarte": "Iuda"},
+    {
+        "numeCarte": "Apocalipsa",
+        "capitole": [
+            {
+                "numarCapitol": 1,
+                "numarVersete": 20
+            },
+            {
+                "numarCapitol": 2,
+                "numarVersete": 29
+            },
+            {
+                "numarCapitol": 3,
+                "numarVersete": 22
+            }
+        ]
+    }
+]
